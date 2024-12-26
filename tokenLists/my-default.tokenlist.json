@@ -1,0 +1,156 @@
+{
+  "name": "RCIEx Default List BSC",
+  "tokens": [
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/aave_32.png"
+    },
+    {
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/avax_32.png"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/btcb_32.png"
+    },
+    {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
+    },
+    {
+      "name": "Cardano",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+    },
+    {
+      "name": "Doge",
+      "symbol": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/ether_32.png"
+    },
+    {
+      "name": "Ethereum Classic",
+      "symbol": "ETC",
+      "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/ethclassic_32.png?v=1"
+    },
+    {
+      "name": "LiteCoin",
+      "symbol": "LTC",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/polygonmatic_new_32.png"
+    },
+    {
+      "name": "PAX-Gold",
+      "symbol": "PAXG",
+      "address": "0x7950865a9140cB519342433146Ed5b40c6F210f7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/paxosgold_32.png"
+    },
+    {
+      "name": "Ripple",
+      "symbol": "XRP",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/xrp_32.png"
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/solana_32.png"
+    },
+    {
+      "name": "Stellar",
+      "symbol": "XLM",
+      "address": "0x43C934A845205F0b514417d757d7235B8f53f1B9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/stellar_32.png"
+    },
+    {
+      "name": "Ton",
+      "symbol": "TON",
+      "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/toncoin_32.png"
+    },
+    {
+      "name": "Yearn Finance",
+      "symbol": "YFI",
+      "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/yfi_32.png"
+    },
+    {
+      "name": "Rupiah",
+      "symbol": "IDRT",
+      "address": "0x66207E39bb77e6B99aaB56795C7c340C08520d83",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/rupiahtoken_32.png"
+    },
+    {
+      "name": "Binance Rupiah",
+      "symbol": "BIDR",
+      "address": "0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/BIDR-0E9_32.png"
+    }
+  ],
+  "logoURI": "http://20.243.210.93:4321/static/img/raffahcoin.png",
+  "version": {
+    "patch": 5,
+    "major": 1,
+    "minor": 3
+  },
+  "timestamp": "2021-11-01T00:12:46.685Z"
+}
